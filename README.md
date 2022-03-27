@@ -6,3 +6,4 @@ Note:
 - sensitivity depends on the performance of the instrument at the time -> different sensitivities files to be used for different periods of time
 - make sure no. of data file & no. of baseline files is the same
 - make sure baseline file name has "_Baseline.csv"
+- working folders only contain files to be read (data files & baseline files)
